@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 2000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 22.001999999999995,
+    "medianResTime" : 22.0,
+    "minResTime" : 14.0,
+    "maxResTime" : 64.0,
+    "pct1ResTime" : 25.0,
+    "pct2ResTime" : 26.0,
+    "pct3ResTime" : 30.0,
+    "throughput" : 6.668645031359303,
+    "receivedKBytesPerSec" : 16.7497607623595,
+    "sentKBytesPerSec" : 0.9508029048617757
+  },
+  "EmployeeOnboarding" : {
+    "transaction" : "EmployeeOnboarding",
+    "sampleCount" : 2000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 22.001999999999995,
+    "medianResTime" : 22.0,
+    "minResTime" : 14.0,
+    "maxResTime" : 64.0,
+    "pct1ResTime" : 25.0,
+    "pct2ResTime" : 26.0,
+    "pct3ResTime" : 30.0,
+    "throughput" : 6.668645031359303,
+    "receivedKBytesPerSec" : 16.7497607623595,
+    "sentKBytesPerSec" : 0.9508029048617757
+  }
+}
